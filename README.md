@@ -33,7 +33,7 @@
 1. Go to your master branch in the repo ONLINE
 2. Click on the .gitignore file
 3. Click the pencil icon to the right of the files name (near the top of the app)
-4. Add the following lines to the bottom of the file:
+4. Add the following lines to the bottom of the file and then save!
 
 Temp/
 
@@ -52,8 +52,6 @@ Obj/
 *.userprefs
 
 *.DS_store
-
-4. Save
 
 ##Setting up Unity to work with Git
 
