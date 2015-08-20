@@ -34,16 +34,25 @@
 2. Click on the .gitignore file
 3. Click the pencil icon to the right of the files name (near the top of the app)
 4. Add the following lines to the bottom of the file:
+
 Temp/
+
 Library/
+
 Obj/
 
 *.csproj
+
 *.unityproj
+
 *.sln
+
 *.user
+
 *.userprefs
+
 *.DS_store
+
 4. Save
 
 ##Setting up Unity to work with Git
